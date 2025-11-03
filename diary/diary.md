@@ -16,7 +16,6 @@
 
 [Offer](offer/cognite_4025523875.md)
 
-
 ## Friday, 31 October
 
 ### BulQ ✔️
