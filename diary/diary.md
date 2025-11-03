@@ -1,10 +1,29 @@
 # Diary
 
+## Tuesday, 5 September
+
+### SOPHiA GENETICS ✔️
+
+[Senior Software Engineer](https://www.linkedin.com/jobs/view/4269801081)
+
+[Offer](offer/SOPHiA_GENETICS_4269801081.md)
+
+## Tuesday, 9 September
+
+### Cognite ✔️
+
+[Data Engineer](https://www.linkedin.com/jobs/view/4025523875)
+
+[Offer](offer/cognite_4025523875.md)
+
+
 ## Friday, 31 October
 
 ### BulQ ✔️
 
 [CDI Senior Data & Cloud Engineer](https://www.linkedin.com/jobs/view/4307518957)
+
+[Offer](offer/BulQ_4307518957.md)
 
 + BulQ
 + CDI Senior Data & Cloud Engineer
@@ -27,6 +46,7 @@ Not really adapted but will see if it is a match. Also, the job is in Biarritz.
 
 [Data engineer GenAI ](https://www.linkedin.com/jobs/view/4270753007)
 
+[Offer](offer/capgemini_4270753007.md)
 
 + Capgemini
 + Data engineer GenAI 
@@ -37,11 +57,11 @@ Who knows people to contact ? so apply directly to the job page
 
 ## Monday, 3 November
 
-### Ubisoft 🏃
+### Ubisoft ✔️
 
 [Ingénieur de recherche "Bots & Behaviors"](https://www.linkedin.com/jobs/view/4307562064)
 
-[Offer](offers/ubisoft_4307562064.md)
+[Offer](offer/ubisoft_4307562064.md)
 
 + Ubisoft
-+ 
+
