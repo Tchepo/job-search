@@ -63,4 +63,20 @@ Who knows people to contact ? so apply directly to the job page
 [Offer](offer/ubisoft_4307562064.md)
 
 + Ubisoft
++ Bordeayx Hybride
 
+
+### SPHEREA ✔️
+
+[CDI Développeur Logiciel](https://www.linkedin.com/jobs/view/4317309236)
+
+[Offer](offer/spherea_4317309236.md)
+
++ CDI Développeur Logiciel (H/F) 
++ Toulouse, remote
+
+### DataDog ✔️
+
+[Library Software Engineer - C++](https://www.linkedin.com/jobs/view/4319033483)
+
+[Offer](offer/datadog_4319033483.md)
