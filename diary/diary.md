@@ -94,7 +94,7 @@ Who knows people to contact ? so apply directly to the job page
 
 [Offer](offer/datadog_4319033483.md)
 
-## Monday, 4 November
+## Tuesday, 4 November
 
 ### DataDog ✔️
 
@@ -123,3 +123,17 @@ The staff operated like a well-oiled machine, and the technology supporting thei
 The most meaningful and challenging projects I've worked on was co-founding Geophysics Anywhere.
 The startup focused on seismic data processing.
 As a full-stack developer, I led the design and development of a SaaS platform that enabled intuitive seismic data analysis for geophysicists, combining backend data processing with a user-friendly frontend interface.
+
+## Wednesday, 5 November
+
+### Qualcomm ✔️
+
+[Principal Engineer - Remote, France](https://www.linkedin.com/jobs/view/4319324692)
+
+[offer](offer/qualcomm_4319324692.md)
+
+---
+
+[Senior Staff Engineer - Remote, France](https://www.linkedin.com/jobs/view/4319234577)
+
+[offer](offer/qualcomm_4319234577.md)
