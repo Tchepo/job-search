@@ -56,12 +56,12 @@ Not really adapted but will see if it is a match. Also, the job is in Biarritz.
 
 ### Capgemini ✔️
 
-[Data engineer GenAI ](https://www.linkedin.com/jobs/view/4270753007)
+[Data engineer GenAI](https://www.linkedin.com/jobs/view/4270753007)
 
 [Offer](offer/capgemini_4270753007.md)
 
 + Capgemini
-+ Data engineer GenAI 
++ Data engineer GenAI
 
 > Comment
 
@@ -137,3 +137,23 @@ As a full-stack developer, I led the design and development of a SaaS platform t
 [Senior Staff Engineer - Remote, France](https://www.linkedin.com/jobs/view/4319234577)
 
 [offer](offer/qualcomm_4319234577.md)
+
+## Thursday, 5 November
+
+### Pierre Fabre Laboratories ❌
+
+[Senior AI/ML Engineer](https://www.linkedin.com/jobs/view/4320572574)
+
+[offer](offer/pierre_fabre_4320572574.md)
+
++ not applied because skills not inlined !
+
+### Suez ❌
+
+[Lead Data engineer - H/F](https://www.linkedin.com/jobs/view/4292811216)
+
+[offer](offer/suez_4292811216.md)
+
++ not applied because skills not inlined !
+
+
